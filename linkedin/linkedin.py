@@ -26,7 +26,7 @@ PERMISSIONS = enum('Permission',
                    EMAIL_ADDRESS='r_emailaddress',
                    NETWORK='r_network',
                    CONTACT_INFO='r_contactinfo',
-                   NETWORK_UPDATES='rw_nus',
+                   SHARE_UPDATES='w_share',
                    GROUPS='rw_groups',
                    MESSAGES='w_messages')
 
